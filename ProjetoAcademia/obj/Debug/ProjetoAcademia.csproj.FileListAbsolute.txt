@@ -1,0 +1,246 @@
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe.config
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\ProjetoAcademia.pdb
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.AssemblyReference.cache
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\obj\Debug\ProjetoAcademia.Form1.resources
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\obj\Debug\ProjetoAcademia.Properties.Resources.resources
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.GenerateResource.cache
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CoreCompileInputs.cache
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\obj\Debug\ProjetoAcademia.exe
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\Google.Protobuf.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\MySql.Data.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.Buffers.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.IO.Pipelines.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.Memory.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\ZstdSharp.dll
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\Google.Protobuf.pdb
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\Google.Protobuf.xml
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\MySql.Data.xml
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.Buffers.xml
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.IO.Pipelines.xml
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.Memory.xml
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CopyComplete
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormAluno.resources
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormMatricula.resources
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormProfessor.resources
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormTurma.resources
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormLogin.resources
+C:\Users\marle\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormListaAlunos.resources
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe.config
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\ProjetoAcademia.pdb
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\Google.Protobuf.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\MySql.Data.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.Buffers.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.Memory.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\ZstdSharp.dll
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\Google.Protobuf.pdb
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\Google.Protobuf.xml
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\MySql.Data.xml
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.Buffers.xml
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.Memory.xml
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.AssemblyReference.cache
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.Form1.resources
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormAluno.resources
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormListaAlunos.resources
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormLogin.resources
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormMatricula.resources
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormProfessor.resources
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormTurma.resources
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.Properties.Resources.resources
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.GenerateResource.cache
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CoreCompileInputs.cache
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CopyComplete
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.exe
+C:\Users\Pc\OneDrive\Documentos\Etec\DS1\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe.config
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\ProjetoAcademia.pdb
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\Google.Protobuf.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\MySql.Data.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.Buffers.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.Memory.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\ZstdSharp.dll
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\Google.Protobuf.pdb
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\Google.Protobuf.xml
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\MySql.Data.xml
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.Buffers.xml
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.Memory.xml
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.AssemblyReference.cache
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.Form1.resources
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormAluno.resources
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormListaAlunos.resources
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormLogin.resources
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormMatricula.resources
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormProfessor.resources
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormTurma.resources
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.Properties.Resources.resources
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.GenerateResource.cache
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CopyComplete
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.exe
+C:\Users\Alunos\Downloads\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe.config
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\ProjetoAcademia.pdb
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\Google.Protobuf.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\MySql.Data.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.Buffers.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.Memory.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\ZstdSharp.dll
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\Google.Protobuf.xml
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\MySql.Data.xml
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.Buffers.xml
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.Memory.xml
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.AssemblyReference.cache
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.Form1.resources
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormAluno.resources
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormListaAlunos.resources
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormLogin.resources
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormMatricula.resources
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormProfessor.resources
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormTurma.resources
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.Properties.Resources.resources
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.GenerateResource.cache
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CoreCompileInputs.cache
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoA.B909FC18.Up2Date
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.exe
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormListaProf.resources
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormListaTurmas.resources
+C:\Users\Dados\Downloads\Totosa\UltimaVersão\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormListaMatricula.resources
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe.config
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\ProjetoAcademia.pdb
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\Google.Protobuf.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\MySql.Data.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.Buffers.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.Memory.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\ZstdSharp.dll
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\Google.Protobuf.xml
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\MySql.Data.xml
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.Buffers.xml
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.Memory.xml
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.AssemblyReference.cache
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.Form1.resources
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormAluno.resources
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormListaAlunos.resources
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormListaMatricula.resources
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormListaProf.resources
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormListaTurmas.resources
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormLogin.resources
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormMatricula.resources
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormProfessor.resources
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.FormTurma.resources
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.Properties.Resources.resources
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.GenerateResource.cache
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CoreCompileInputs.cache
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoA.B909FC18.Up2Date
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.exe
+C:\Users\Dados\Downloads\Totosa\VersãoFinal\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb
